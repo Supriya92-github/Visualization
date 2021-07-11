@@ -12,4 +12,5 @@
 ![name-of-you-image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg0gZbsVb8vgWRItYqJVhZKPpisis4DcSt1A&usqp=CAU)
 ### POWER BI :
  “ It is a business analytics solution that lets you visualize your data and share insights across your organization, or embed them in your app or website.” 
+ Power BI is a Business Intelligence and Data Visualization tool for converting data from various data sources into interactive dashboards and analysis reports. we have created an interactive dashboard for COVID Analysis using the power Bi
 ![name-of-you-image](https://agilethought.com/wp-content/uploads/2018/10/power-BI.png)
